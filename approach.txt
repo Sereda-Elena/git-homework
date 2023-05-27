@@ -1,3 +1,20 @@
 There are two general approaches to test automation:
 1/ Code-driven testing. The public (usually) interfaces to classes, modules or libraries are tested with a variety of input arguments to validate that the results that are returned are correct.
 2/ Graphical user interface testing.
+
+Top 15 Automation Testing Tools List
+1. Selenium IDE
+2. LambdaTest
+3. Appium
+4. Kobiton
+5. Katalon Studio
+6. TestComplete
+7. Cucumber
+8. Eggplant
+9. Worksoft Certify
+10. Watir
+11. IBM Rational Functional Tester (RFT)
+12. TestProject
+13. Subject7
+14. Ranorex Studio
+15. QAWolf
