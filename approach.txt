@@ -20,6 +20,7 @@ Top 15 Automation Testing Tools List
 15. QAWolf
 
 What are the 4 phases of the testing framework?
+
 The Four-Phase Test Pattern
 Setup: Establish the preconditions to the test.
 Exercise: Do something to the system. 
