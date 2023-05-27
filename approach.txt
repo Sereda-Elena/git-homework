@@ -1,0 +1,3 @@
+There are two general approaches to test automation:
+1/ Code-driven testing. The public (usually) interfaces to classes, modules or libraries are tested with a variety of input arguments to validate that the results that are returned are correct.
+2/ Graphical user interface testing.
