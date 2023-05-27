@@ -19,10 +19,3 @@ Top 15 Automation Testing Tools List
 14. Ranorex Studio
 15. QAWolf
 
-What are the 4 phases of the testing framework?
-
-The Four-Phase Test Pattern
-Setup: Establish the preconditions to the test.
-Exercise: Do something to the system. 
-Verify: Check the expected outcome.
-Cleanup: Return the system under test to its initial state after the test.
